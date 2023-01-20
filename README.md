@@ -1,4 +1,4 @@
-# Gussing-Number-Game
+# Gussing-Number
 
 Pick a random integer from 1 to 100, and has players guess the number. 
 
